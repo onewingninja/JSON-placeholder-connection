@@ -1,3 +1,15 @@
-{
-    
-}
+
+ [
+    {
+        "username": "user1",
+        "name": "foo",
+        "bio": "bio stuff",
+        "pic": "https://cdn.pixabay.com/photo/2022/05/29/03/40/goldfinch-7228334_960_720.jpg",
+        "posts": [
+            {
+                "title": "post1",
+                "image": "https://cdn.pixabay.com/photo/2022/05/29/03/40/goldfinch-7228334_960_720.jpg"
+            }
+        ]
+    }
+]
